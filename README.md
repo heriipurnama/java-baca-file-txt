@@ -2,18 +2,22 @@
 
 ini adalah progrma membaca file text pada java dengan net beans
 
+disini saya ada dua file yakni:
+id.data.txt dan data.txt
 
 pertama jalankan program lalu pilih file yang ingin dibaca :
 
 contoh :
 run:
-==========================
+=============================
 Pilihan nama file text
 --------------------------
 1. id.txt
 2. data.txt
 Masukkan nama file TXT : data.txt
-============
+=======================================================================================
+data yang tampil
+***************************************************************************************
 heri
 
 saya adalah....???
